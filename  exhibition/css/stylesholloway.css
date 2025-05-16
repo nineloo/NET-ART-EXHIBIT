@@ -1,0 +1,58 @@
+
+body {
+    display:flex;
+    background-color:rgb(255, 238, 252);
+}
+@media screen and (max-width: 1096px) {
+ 
+
+ .descripton {
+    display:flex;
+    margin: 0 auto;
+    align-items: stretch;
+    position:sticky;
+    padding-right: -4000px;
+    padding: -4000px;
+    text-align:start;
+    float: left;
+    height:auto;
+    text-indent: 10%;
+    font-size: 40px;
+}
+1 {
+    margin: 0 auto;
+    z-index: -4;
+    padding: -9000px;
+    padding-right: -400px;
+ }
+
+
+ .your-style {
+
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+    transform: scaleX(-4);
+    padding: 50px;
+    font-style: normal;
+    font-stretch: ultra-expanded;
+    color: #5ba126;
+    display: flex;
+}
+
+.your-style2 {
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 100px;
+    transform:rotateZ('-70deg')
+    translateY(4)
+    padding: -700px;
+    font-style: normal;
+    font-stretch: ultra-expanded;
+    color: #ffb2d9;
+    z-index: -4;
+    display: block;
+} 
+ }
+ 
+ 
